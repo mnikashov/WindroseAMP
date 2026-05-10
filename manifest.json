@@ -3,8 +3,8 @@
   "authors": [
     "Dmorals"
   ],
-  "origin": "https://github.com/cytech-services/amp-windrose.git",
-  "url": "https://github.com/cytech-services/amp-windrose",
+  "origin": "https://github.com/mnikashov/WindroseAMP.git",
+  "url": "https://github.com/mnikashov/WindroseAMP",
   "imagefile": "",
   "prefix": "Custom",
   "repotype": "AppTemplates"
